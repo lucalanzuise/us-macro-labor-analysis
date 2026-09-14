@@ -1,0 +1,15 @@
+series_id,label,short_name,units,frequency,seasonal_adjustment,source
+CES0500000003,Average Hourly Earnings of All Employees: Total Private,nominal_hourly_earnings,Dollars per hour,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+CIVPART,Labor Force Participation Rate,participation_rate,Percent,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+CLF16OV,Civilian Labor Force Level,labour_force,Thousands of persons,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+CPIAUCSL,Consumer Price Index for All Urban Consumers,cpi,Index 1982-1984=100,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+FEDFUNDS,Federal Funds Effective Rate,federal_funds_rate,Percent,Monthly,Not seasonally adjusted,Board of Governors of the Federal Reserve System via FRED
+GDPC1,Real Gross Domestic Product,real_gdp,"Billions of chained 2017 dollars, annual rate",Quarterly,Seasonally adjusted,U.S. Bureau of Economic Analysis via FRED
+JTSJOL,Job Openings: Total Nonfarm,vacancies,Thousands,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+NFIRSAXDCUSQ,Real Gross Fixed Capital Formation for the United States,real_investment,Millions of domestic currency,Quarterly,Seasonally adjusted,International Monetary Fund via FRED
+NROU,Estimate of the Natural Rate of Unemployment,natural_unemployment_rate,Percent,Quarterly,Not seasonally adjusted,U.S. Congressional Budget Office via FRED
+PCECC96,Real Personal Consumption Expenditures,real_consumption,"Billions of chained 2017 dollars, annual rate",Quarterly,Seasonally adjusted,U.S. Bureau of Economic Analysis via FRED
+PCEPI,Personal Consumption Expenditures Price Index,pce_price_index,Index 2017=100,Monthly,Seasonally adjusted,U.S. Bureau of Economic Analysis via FRED
+UEMPLT5,Number Unemployed for Less Than 5 Weeks,short_term_unemployment,Thousands of persons,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+UNEMPLOY,Unemployment Level,unemployment_level,Thousands of persons,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED
+UNRATE,Civilian Unemployment Rate,unemployment_rate,Percent,Monthly,Seasonally adjusted,U.S. Bureau of Labor Statistics via FRED

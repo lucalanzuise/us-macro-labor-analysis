@@ -1,0 +1,3 @@
+model,rmse,mae,forecast_observations
+Phillips forecasting model,0.7938504992608274,0.5206191737514839,179
+Naive lagged-inflation benchmark,0.7665869630405396,0.5229126677558548,179

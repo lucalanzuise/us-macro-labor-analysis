@@ -1,0 +1,15 @@
+series_id,short_name,first_observation,last_observation,rows_in_requested_window,non_missing_observations,missing_observations,duplicate_dates,monotonic_dates
+CES0500000003,nominal_hourly_earnings,2006-03-01,2025-12-01,238,238,0,0,True
+CIVPART,participation_rate,1960-01-01,2025-12-01,792,791,1,0,True
+CLF16OV,labour_force,1960-01-01,2025-12-01,792,791,1,0,True
+CPIAUCSL,cpi,1960-01-01,2025-12-01,792,791,1,0,True
+FEDFUNDS,federal_funds_rate,1960-01-01,2025-12-01,792,792,0,0,True
+GDPC1,real_gdp,1960-01-01,2025-10-01,264,264,0,0,True
+JTSJOL,vacancies,2000-12-01,2025-12-01,301,301,0,0,True
+NFIRSAXDCUSQ,real_investment,1972-01-01,2025-10-01,216,216,0,0,True
+NROU,natural_unemployment_rate,1960-01-01,2025-10-01,264,264,0,0,True
+PCECC96,real_consumption,1960-01-01,2025-10-01,264,264,0,0,True
+PCEPI,pce_price_index,1960-01-01,2025-12-01,792,792,0,0,True
+UEMPLT5,short_term_unemployment,1960-01-01,2025-12-01,792,791,1,0,True
+UNEMPLOY,unemployment_level,1960-01-01,2025-12-01,792,791,1,0,True
+UNRATE,unemployment_rate,1960-01-01,2025-12-01,792,791,1,0,True

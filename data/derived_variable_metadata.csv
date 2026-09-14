@@ -1,0 +1,11 @@
+variable,frequency,construction,purpose
+cpi_inflation_yoy,Quarterly,"100 * (CPI_t / CPI_(t-12) - 1), averaged within quarter",Headline consumer-price inflation
+pce_inflation_yoy,Quarterly,"100 * (PCEPI_t / PCEPI_(t-12) - 1), averaged within quarter",PCE price inflation
+real_*_growth_yoy,Quarterly,100 * (X_t / X_(t-4) - 1),"Year-on-year growth in real GDP, consumption and investment"
+job_finding_probability,Monthly,1 - (U_(t+1) - Us_(t+1)) / U_t,Shimer-style unemployment outflow probability
+separation_probability,Monthly,Us_(t+1) / (E_t * (1 - 0.5 * F_t)),Shimer-style inflow probability with time-aggregation correction
+unemployment_rate_constructed,Monthly,100 * U_t / L_t,Horizontal axis of the Beveridge curve
+vacancy_rate,Monthly,100 * V_t / (E_t + V_t),Vertical axis of the Beveridge curve
+unemployment_gap,Quarterly,Unemployment rate minus CBO natural rate,Labour-market slack in Phillips-curve models
+adaptive_expected_inflation,Quarterly,Mean CPI inflation over the previous four quarters,Simple backward-looking expectations measure
+inflation_surprise,Quarterly,CPI inflation minus adaptive expected inflation,Outcome in expectations-augmented Phillips regressions
